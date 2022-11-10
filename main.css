@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body{
+    width: 100%;
+    height: 100%;
+    color: #333;
+    background: #f7f7f7;
+    font-size: 1em;
+    font-family: "Segoe UI" sans-serif;
+    line-height: 100%;
+}
+header,footer{
+    background-color: aliceblue;
+    width: auto;
+    min-height: 50px;
+}
+header{
+    border-bottom: 2px solid silver;
+}
+footer{
+    border-bottom: 2px solid silver;
+    margin-top: 10px;
+}
